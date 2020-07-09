@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Ying, an iOS software engineer at Microsoft.
+This is Nero Song, an indie developer & student at HFUT.
 
-- 🔭 I'm currently working on [Outlook for iOS](https://apps.apple.com/us/app/id951937596), and a side project called [JSBox](https://apps.apple.com/us/app/id1312014438)
-- 🌱 I'm currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- 💬 Ask me about iOS development
-- 📫 How to reach me: [@cyanapps](https://twitter.com/cyanapps)
+- 👨‍💻 I'm currently working on making personal tools
+- 📖 I'm currently improving my algorithms skills
+- 💬 Talk with me about app development & coding
+- 📫 How to reach me: 
+  - Email: bravolavita@gmail.com
+  - Blog : https://1ts.fun
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my code is written by a [cat](https://twitter.com/cyanapps/status/1219640123186405382)
+- ⚡ Fun fact: maybe I'll work for a company whose name starts with G in the future :P
