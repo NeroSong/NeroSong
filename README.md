@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-This is Nero Song, or 西海岸总督 as well.
+This is Nero Song, aka 西海岸总督.
 
-- 💻 indie hacker
-- 📖 accountancy undergraduate at senior year
-- 🥰 working online & work-life balance fan
-
-Si vis pacem, para bellum. Carpe diem. Have a good day😄!
-
+- 🧑‍💻 He/him 
+- 🎯 Focus on building great Apps
+- 🌱 Dance for life every second
 
 > Blog : https://1ts.fun
 >
