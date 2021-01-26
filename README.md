@@ -2,9 +2,9 @@
 
 This is Nero Song, aka 西海岸总督.
 
-- 🧑‍💻 He/him 
-- 🎯 Focused on building great Apps
-- 🌱 Dancing for life every second
+- 🧑‍💻 He/Him 
+- 🎯 Focus on building great Apps
+- 🌱 Dance for life every second
 
 > Blog : https://1ts.fun
 
